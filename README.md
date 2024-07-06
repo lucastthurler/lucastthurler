@@ -41,6 +41,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/lucasthurler)
-/*[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](lucaspecles@hotmailcom)*/
+[![Linkedin](https://img.shields.io/badge/-lucasthurler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucasthurler)](www.linkedin.com/in/lucasthurler)
+/*[![Gmail Badge](https://img.shields.io/badge/-lucaspecles@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](lucaspecles@hotmailcom)*/
 [![GitHub](https://img.shields.io/github/followers/lucastthurler?label=follow&style=social)](https://github.com/lucastthurler)
