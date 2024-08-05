@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Computação na Universida Estadual do Rio de Janeiro(UERJ).
-- 💼 Aprendendo a ser Full-Stack.
+- 💼 Aprendendo a ser Back-End.
 - 🌱 Aprendendo mais sobre tecnologias Back-Ends.
 
 ## Minhas Skills
